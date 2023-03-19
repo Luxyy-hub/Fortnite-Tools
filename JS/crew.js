@@ -2,8 +2,8 @@
 
 const axios = require('axios');
 
-const apiKey = "dd5c97e1-469d-47a9-90a1-790899ccc0ac";
-const authorizationToken = "b6a2d0d8b8f749b08c8b6d127761a0a7";
+const apiKey = "";
+const authorizationToken = "";
 
 const purchaseData = {
     currency: "USD",
