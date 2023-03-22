@@ -1,6 +1,6 @@
 // coded by Luxy(the real one, fuck daniel) 
 // player feedback request fixed by Mr-zanzibar
-// Discord : #SuperCharger#2023 ,#Don.Zanzibar#3562
+// Discord : SuperCharger#2023 ,Don.Zanzibar#3562
 #include <iostream>
 #include <cpprest/http_client.h>
 
